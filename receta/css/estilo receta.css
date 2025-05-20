@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+	margin: 30;
+	padding: 0;
+}
+
+body{
+	background-color: #FFFFE6;
+	font-family:"Roboto", sans-serif;
+}
+
+.ingredientes
+{
+	width: auto;
+	height: 225px;
+	background-color: #FFF5BC;
+	margin: 20px;
+	padding: 10px;
+
+}
+
+h1{
+	color: #DB0056; 
+	margin-left: 20px;
+}
+
+.preparacion
+{
+	width: auto;
+	height: 230px;
+	background-color: #FFF5BC;
+	margin: 20px;
+	padding: 10px;
+}
+
+.inicio
+{
+	padding: 10px;
+	margin-left: 20px;
+}
